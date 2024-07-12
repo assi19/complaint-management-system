@@ -1,0 +1,8 @@
+need to download
+
+mongoDB - for database
+Node.js - script
+Visual Studio Code
+	HTML
+	CSS
+	JavaScript
